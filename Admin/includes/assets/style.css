@@ -1,0 +1,11 @@
+.alert_style{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    text-align: center;
+}
+.update{
+    text-align: center;
+    padding: 10px;
+    margin-top: 15px;
+}
